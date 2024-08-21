@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/grsource/Documentos/AppProjects/gr-teste/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/gr-teste.dir/main.cpp.o -c /home/grsource/Documentos/AppProjects/gr-teste/main.cpp",
+  "file": "/home/grsource/Documentos/AppProjects/gr-teste/main.cpp"
+}
+]
